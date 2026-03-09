@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "WE KNOW",
+  "base_artist": "ATEEZ",
+  "createdAt": "2026-03-09T13:03:59.137778Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Somewhere Only We Know",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/01_Somewhere_Only_We_Know_Keane.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "(How Little It Matters) How Little We Know",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/02_(How_Little_It_Matters)_How_Little_We_Know_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "(How Little It Matters) How Little We Know",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/03_(How_Little_It_Matters)_How_Little_We_Know_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Know Martha Webber",
+      "artist": "Now, Now Every Children",
+      "has_synced": true,
+      "path": "select/04_We_Know_Martha_Webber_Now,_Now_Every_Children.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We Know",
+      "artist": "42 Dugg",
+      "has_synced": true,
+      "path": "select/05_We_Know_42_Dugg.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Everything We Know",
+      "artist": "Kim Wilde",
+      "has_synced": true,
+      "path": "select/06_Everything_We_Know_Kim_Wilde.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "We Know How It Feels",
+      "artist": "Bronski Beat",
+      "has_synced": true,
+      "path": "select/07_We_Know_How_It_Feels_Bronski_Beat.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We Know How to Have Fun",
+      "artist": "ADULT.",
+      "has_synced": false,
+      "path": "select/08_We_Know_How_to_Have_Fun_ADULT..txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "For All We Know",
+      "artist": "Billie Holiday",
+      "has_synced": true,
+      "path": "select/09_For_All_We_Know_Billie_Holiday.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fuck Em Only We Know",
+      "artist": "BANKS",
+      "has_synced": true,
+      "path": "select/10_Fuck_Em_Only_We_Know_BANKS.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "All We Know",
+      "artist": "The Chainsmokers feat. Phoebe Ryan",
+      "has_synced": true,
+      "path": "select/11_All_We_Know_The_Chainsmokers_feat._Phoebe_Ryan.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "All We Know",
+      "artist": "The Chainsmokers",
+      "has_synced": true,
+      "path": "select/12_All_We_Know_The_Chainsmokers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "For All We Know",
+      "artist": "Dave Brubeck",
+      "has_synced": false,
+      "path": "select/13_For_All_We_Know_Dave_Brubeck.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "For All We Know (2014 - Remaster)",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/14_For_All_We_Know_(2014_-_Remaster)_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "For All We Know",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/15_For_All_We_Know_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "For All We Know",
+      "artist": "Johnny Hartman",
+      "has_synced": false,
+      "path": "select/16_For_All_We_Know_Johnny_Hartman.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WE KNOW",
+      "artist": "ATEEZ",
+      "has_synced": false,
+      "path": "select/pl_01_WE_KNOW_ATEEZ.txt"
+    }
+  ]
+}
